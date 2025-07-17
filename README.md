@@ -1,2 +1,3 @@
 # Cancer-treatment
-inventing possible treatment and recommendation on cancer treatment
+Inventing possible treatments and recommendations for cancer treatment
+ 
